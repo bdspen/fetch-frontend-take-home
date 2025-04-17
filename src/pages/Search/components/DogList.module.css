@@ -1,0 +1,26 @@
+.dogCard {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.dogImage {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  width: 100%;
+}
+
+.dogCardMeta {
+  flex-grow: 1;
+}
+
+.dogCardMeta p {
+  margin-bottom: 4px !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.favoriteButtonIconFilled {
+  color: #ff4d4f;
+}

@@ -1,0 +1,8 @@
+.cardImage {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.favoriteIconFilled {
+  color: #ff4d4f; /* Ant Design's danger color */
+}
