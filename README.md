@@ -1,7 +1,7 @@
 # Fetch App
 
-Ben Spenard
-This is the Fetch take-home project.
+Ben Spenard -- 
+Fetch take-home project.
 
 ## Getting Started
 
